@@ -1,0 +1,62 @@
+[
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "AaaBAaaB4",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "AaaBAaaB4",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "AaaBAaaB4",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "AaaBAaaB4",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "<b>aaaa</b>aaaa",
+    "resource": "AaaBAaaB4",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
